@@ -1,11 +1,9 @@
 <template>
-  <Carousel />
   <hr>
-  <Car />
+  <Carousel />
 </template>
 
 <script setup>
 import Carousel from './components/Carousel.vue'
-import Car from './components/Car.vue'
 </script>
 
